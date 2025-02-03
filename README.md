@@ -10,7 +10,7 @@ I'm a software engineer student at 42 Prague, passionate about solving complex p
 
 ## 🚀 Projects
 
-### Current Advanced Projects
+### Current Projects
 - [**dslr**](https://github.com/farkasf/dslr) - Data Science and Logistic Regression implementation
 - [**ft_linux**](https://github.com/etienneduplessix/ft_linux) - Custom Linux distribution build
 - [**ft_linear_regression**](https://github.com/etienneduplessix/ft_linear_regression) - Machine learning implementation
