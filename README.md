@@ -11,20 +11,24 @@ I'm a software engineer student at 42 Prague, passionate about solving complex p
 ## 🚀 Projects
 
 ### Current Advanced Projects
-- [**snow_cash**](https://github.com/etienneduplessix/snow_cash) - Security focused project
-- [**rainfall**](https://github.com/etienneduplessix/rainfall) - Advanced security and Unix programming
-- [**darkly**](https://github.com/etienneduplessix/darkly) - Web security and penetration testing
+- [**dslr**](https://github.com/farkasf/dslr) - Data Science and Logistic Regression implementation
 - [**ft_linux**](https://github.com/etienneduplessix/ft_linux) - Custom Linux distribution build
 - [**ft_linear_regression**](https://github.com/etienneduplessix/ft_linear_regression) - Machine learning implementation
 - [**BGPsimple**](https://github.com/etienneduplessix/BGPsimple) - Network administration project
-- [**libasm**](https://github.com/etienneduplessix/libasm) - Assembly language programming
 
 ### Web Development & DevOps
 - [**movie_notifier**](https://github.com/etienneduplessix/movie_notifier) - Movie notification system
 - [**testrans**](https://github.com/etienneduplessix/testrans) - JavaScript-based web application
 - [**inception**](https://github.com/etienneduplessix/inception) - Docker containerization project
 
+### Cybersecurity Projects
+- [**snow_cash**](https://github.com/etienneduplessix/snow_cash) - Advanced system security and exploitation
+- [**rainfall**](https://github.com/etienneduplessix/rainfall) - Binary exploitation and reverse engineering
+- [**darkly**](https://github.com/etienneduplessix/darkly) - Web security and penetration testing
+- [**kaliDockerconfig**](https://github.com/etienneduplessix/kaliDockerconfig) - Kali Linux Docker configuration for security testing
+
 ### Systems Programming
+- [**libasm**](https://github.com/etienneduplessix/libasm) - Assembly language programming
 - [**CPP**](https://github.com/etienneduplessix/CPP) - Collection of C++ modules covering OOP concepts
 - [**cub3D**](https://github.com/etienneduplessix/cub3D) - 3D ray-casting engine
 - [**minishell**](https://github.com/etienneduplessix/minishell) - Custom shell implementation
@@ -38,7 +42,6 @@ I'm a software engineer student at 42 Prague, passionate about solving complex p
 - [**libft**](https://github.com/etienneduplessix/libft) - C standard library recreation
 
 ### Data Science & Machine Learning
-- [**dslr**](https://github.com/farkasf/dslr) - Data Science and Logistic Regression implementation
 - [**picinepyhthondatascience**](https://github.com/etienneduplessix/picinepyhthondatascience) - Python data science projects
 - [**ft_linear_regression**](https://github.com/etienneduplessix/ft_linear_regression) - Machine learning algorithms
 
@@ -54,7 +57,12 @@ I'm a software engineer student at 42 Prague, passionate about solving complex p
 ## 🌟 Project Highlights
 
 ### Security Focus
-Currently working on security-oriented projects like snow_cash and rainfall, developing skills in system security and penetration testing.
+Strong focus on cybersecurity with projects covering:
+- System security and exploitation (snow_cash)
+- Binary exploitation and reverse engineering (rainfall)
+- Web application security (darkly)
+- Security testing environments (kaliDockerconfig)
+- System hardening and penetration testing
 
 ### Full-Stack Development
 Experience with both frontend and backend technologies, demonstrated through projects like movie_notifier and web applications.
@@ -63,5 +71,5 @@ Experience with both frontend and backend technologies, demonstrated through pro
 Strong foundation in low-level programming with projects ranging from custom shell implementation to 3D graphics engines.
 
 ## Location: 
-Prague
+ Prague
 
